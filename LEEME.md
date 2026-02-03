@@ -55,4 +55,5 @@ Esta aplicación requiere contraseña de administrador (`sudo`) porque necesita 
 
 ## 📄 Licencia
 
-Open Source. Creado para la comunidad por myinnervoid.
+Open Source. Creado para la comunidad ❤️ por myinnervoid + Gemini Pro + Antigravity
+
