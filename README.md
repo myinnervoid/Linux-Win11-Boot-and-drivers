@@ -4,7 +4,7 @@
 
 Create bootable USBs for Windows (UEFI/Secure Boot), Linux, and other systems, verify ISO integrity, and fix driver issues—all in one modern app.
 
-![Logo](logo.png)
+![Logo](windows.png)
 
 ## ✨ Key Features
 
