@@ -49,4 +49,4 @@ This tool requires root (`sudo`) permissions to format USB drives and write boot
 
 ## 📄 License
 
-Open Source. Built with ❤️ by myinnervoid.
+Open Source. Built with ❤️ by myinnervoid + Gemini Pro + Antigravity
